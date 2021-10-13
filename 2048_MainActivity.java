@@ -1,4 +1,4 @@
-package com.uberspot.a2048;
+package shrikarlekkala.2048;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -117,7 +117,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onResume() {
         super.onResume();
-        mWebView.loadUrl("file:///android_asset/2048/index.html?lang=" + Locale.getDefault().getLanguage());
+        mWebView.loadUrl("file:///android_projects/2048/index.html?");
     }
 
     @Override
@@ -160,7 +160,7 @@ public class MainActivity extends Activity {
     /**
      * Prevents app from closing on pressing back button accidentally.
      * mBackPressThreshold specifies the maximum delay (ms) between two consecutive backpress to
-     * quit the app.
+     * quit the app. ----- TOOK A WHILE TO UNDERSTAND
      */
 
     @Override
