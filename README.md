@@ -30,3 +30,5 @@ Random Number Generator - Focused on Margins between text, slider, and button to
 
 9/27/21 - 10/12/21
 Worked on functioning 2048 game in android studio, took many weeks to understand main concepts in structuring the game to replay and switch screens after the game has been lost, and many initial tweaks caused some lapses, but I was able to make it! Learned many different functions that are necessary such as setRequestedOrientation and setDatabasePath which I will definitely use in my future app in the coming semester. 
+
+![image](https://user-images.githubusercontent.com/90427147/137054603-90c25844-3a49-451b-b9c9-b2a56e594c2a.png)
