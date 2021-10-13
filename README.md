@@ -26,3 +26,7 @@ Random Number Generator - Focused on Margins between text, slider, and button to
 
 ![Screenshot 2021-09-16 222958](https://user-images.githubusercontent.com/90427147/133719829-17cc68dd-6f76-445e-b526-0981e3cb01d2.png)
 
+9/17/2021
+
+9/27/21 - 10/12/21
+Worked on functioning 2048 game in android studio, took many weeks to understand main concepts in structuring the game to replay and switch screens after the game has been lost, and many initial tweaks caused some lapses, but I was able to make it!
